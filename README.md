@@ -22,4 +22,16 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-# Certificados
+**Sistemas Operacionais**<br>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+
+## Certificados
+
+## Programação para estudos
+
+![Roadmap.sh](https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white) https://roadmap.sh/u/marvinsk
+
+
