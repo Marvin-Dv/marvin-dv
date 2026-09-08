@@ -17,6 +17,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=plastic&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)](#)
 
 **Banco de dados**<br>
 
