@@ -31,7 +31,6 @@
 
 **Inteligência Artificial**<br>
 
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic&logo=googlegemini&logoColor=fff)](#)
 
