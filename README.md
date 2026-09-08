@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white)
 
-**Inteligência artificial**<br>
+**Inteligência Artificial**<br>
 
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff)](#)
