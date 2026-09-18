@@ -23,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 **Ferramentas & IA**<br>
 
@@ -31,6 +32,9 @@
 ![Google Gemini](https://img.shields.io/badge/Gemini-886FBF?style=plastic&logo=googlegemini&logoColor=white)
 
 ## Certificados
+
+<a href="https://www.credly.com/earner/earned/badge/db2413f4-b5f1-417a-b383-c4a180aa2afc" target=_blank>
+ <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90" alt="Certificado Cisco">
 
 ## Outros
 
