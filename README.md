@@ -1,6 +1,6 @@
 ## 🎍 Marcos Vinícios
 - Estudando para atuar como Desenvolvedor Full Stack.
-- Desenvolvimento, Automação, Otimização e Performance de código.
+- Desenvolvimento, Automação, Otimização e Performance.
 - Atualmente estudando Linguagens de Programação, Cibersegurança e Arquitetura de Sistemas.
 - Cursando e aprendendo com a [IBM](https://www.ibm.com/br-pt/about?lnk=flatitem) e [Cisco](https://www.netacad.com/about).
 
@@ -18,6 +18,15 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
+
+**Frameworks**<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 
 **Banco de Dados & Ambientes**<br>
 
